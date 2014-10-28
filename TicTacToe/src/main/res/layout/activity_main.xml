@@ -1,0 +1,35 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start a Host first (Circle), then choose the cross on the other device:"
+        android:id="@+id/explanation"/>
+
+    <Button
+        android:id="@+id/chooseCircle"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:drawableRight="@drawable/circle"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/explanation"
+        />
+
+    <Button
+        android:id="@+id/choosePlus"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:drawableRight="@drawable/cross"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chooseCircle"
+        android:layout_centerHorizontal="true"
+        />
+
+
+</RelativeLayout>

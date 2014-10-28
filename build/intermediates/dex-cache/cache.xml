@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/david/android/comframe/ComFrame/TicTacToe/build/intermediates/pre-dexed/debug/classes-a4ca50c18046ecdd04fd14f47ac90b3959962b7a.jar"
+        jar="/home/david/android/comframe/ComFrame/TicTacToe/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/david/android/comframe/ComFrame/TicTacToe/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-f53a31d507c2b2428b3168b4dad7599c2885e8a6.jar"
+        jar="/home/david/android/comframe/ComFrame/TicTacToe/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/david/android/comframe/ComFrame/example/build/intermediates/pre-dexed/release/classes-f1d4d907b57e985f97b49c1fde91a1bdfd4be819.jar"
+        jar="/home/david/android/comframe/ComFrame/example/build/intermediates/exploded-aar/ComFrame/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a1915c38d6ca2c82acb0dc263a46ec1e3ee384c5"/>
+    <item
+        dex="/home/david/android/comframe/ComFrame/example/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-ac9eecc253fdba2831c82bc0dc80fba11be63671.jar"
+        jar="/opt/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/david/android/comframe/ComFrame/example/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-0ed7dc7f8c993377b3b1d3036feb88552acaee21.jar"
+        jar="/home/david/android/comframe/ComFrame/example/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/david/android/comframe/ComFrame/example/build/intermediates/pre-dexed/debug/classes-83bc34b44c2142464bead8c613d8b2b72e3fa0d0.jar"
+        jar="/home/david/android/comframe/ComFrame/example/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/david/android/comframe/ComFrame/TicTacToe/build/intermediates/pre-dexed/release/classes-c8f6f53f8509fa9221f5ce568f15107ae75eda1f.jar"
+        jar="/home/david/android/comframe/ComFrame/TicTacToe/build/intermediates/exploded-aar/ComFrame/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a1915c38d6ca2c82acb0dc263a46ec1e3ee384c5"/>
+    <item
+        dex="/home/david/android/comframe/ComFrame/TicTacToe/build/intermediates/pre-dexed/debug/classes-40a4b8c132876513ac6fd8e106bcfa0542c79173.jar"
+        jar="/home/david/android/comframe/ComFrame/TicTacToe/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/david/android/comframe/ComFrame/example/build/intermediates/pre-dexed/debug/classes-50460d3784055a8bf93301ea6dd0c2469cdfa800.jar"
+        jar="/home/david/android/comframe/ComFrame/example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+
+</pre-dex-items>
